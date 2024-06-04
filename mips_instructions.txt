@@ -1,0 +1,49 @@
+li 0 0 100
+li 0 5 1
+li 0 6 32767
+li 1 0 3
+li 1 5 150
+li 1 6 32767
+li 2 0 50
+li 2 5 1
+li 2 7 32767
+li 2 6 65534
+nop
+nop
+nop
+li 3 4 10
+nop
+nop
+nop
+nop
+simals 3 2 1 0
+simahs 4 2 1 0
+simsls 5 4 1 0
+simshs 6 4 1 0
+slmals 7 2 1 0
+slmahs 8 2 1 0
+slmsls 9 2 1 0
+slmshs 10 2 1 0
+nop
+nop
+nop
+shrhi 11 1 0
+li 0 7 32768
+au 12 2 0
+cntih 13 1 0
+or 14 1 0
+bcw 15 1 0
+maxws 16 1 0
+minws 17 1 0
+mlhu 18 1 0
+nop
+nop
+li 16 7 32767
+ahs 19 17 16
+mlhu 20 19 0
+li 0 5 32768
+mlhss 21 1 0
+invb 22 1 0
+rotw 23 3 9
+sfwu 24 1 2
+sfhs 25 1 2
