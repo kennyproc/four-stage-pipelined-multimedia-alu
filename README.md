@@ -13,3 +13,5 @@ Steps to run the simulation:
 9. Run the simulation for (60 + 20n) nanoseconds for n instructions.
 10. You will see waveforms, showing the instruction in the first 3 stages, the values of rs1, rs2, rs3 read during stage 2, and the computed rd value during stage 3. You will also see the reg_write signal, write address, and data to be written during stage 4.
 11. You can view the state of the registers after the simulation in the registers.txt file, and information about each of the stages during each clock cycle in the results.txt file.
+
+View the Project Report for more information on the pipeline and analysis of results
