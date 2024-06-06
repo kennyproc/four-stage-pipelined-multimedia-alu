@@ -1,7 +1,7 @@
 # Four Stage Pipelined Multimedia ALU
 ESE 345 Computer Architecture - Final Project
 
-Steps to running the simulation:
+Steps to run the simulation:
 1. Download all source code files including the .vhd files, .txt files, and the assembly.py file
 2. Create your own list of MIPS assembly instructions from the list in the mips_instructions.txt file if you wish
 3. Run the assembler.py file to generate the 25-bit machine code instructions in the output.txt file
